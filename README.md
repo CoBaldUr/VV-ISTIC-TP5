@@ -1,5 +1,5 @@
 # Yao Arnaud Akoto et Corentin Baland
-# Validation and Verification: Practical Session
+## Validation and Verification: Practical Session
 
 This practical session will help to better understand GUI testing, and in particular the tool Selenium
 
